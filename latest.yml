@@ -4,7 +4,7 @@ services:
     version: 6.3.1
   open-collector:
     image: mjiderhamn/opencollector
-    version: 2021-10-13_16_18
+    version: 2021-10-13_16_27
   metrics:
     image: gcr.io/lrcollection/metrics
     version: 6.0.1
